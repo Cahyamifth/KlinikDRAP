@@ -1,6 +1,7 @@
 # Aplikasi Web Pengelola Obat - Klinik Dokter Anita Purba
 ## Login Aplikasi
 ![alt text](https://github.com/Cahyamifth/KlinikDRAP/blob/main/assets/dist/img/LoginDokterAplikasi.PNG?raw=true)
+
 ## Deskripsi
 
 Aplikasi ini dirancang untuk mendukung penelitian dalam upaya meningkatkan efisiensi pengelolaan pelayanan klinik. Dengan digitalisasi proses administrasi dan pelayanan, aplikasi ini memungkinkan staf klinik untuk:
@@ -26,5 +27,6 @@ Aplikasi ini berfungsi sebagai **lemari digital penyimpanan obat**, yang diharap
 Aplikasi ini memiliki dua jenis role user:
 1. **Pimpinan Klinik**
 2. **Petugas**
+
 ## Dashboard Aplikasi
 ![alt text](https://github.com/Cahyamifth/KlinikDRAP/blob/main/assets/dist/img/Klinik%20Dokter%20Aplikasi.PNG?raw=true)
